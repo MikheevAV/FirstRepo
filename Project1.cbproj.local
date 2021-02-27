@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.637,=C:\Users\LasqaCat\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,=C:\Users\LasqaCat\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.513,C:\Users\LasqaCat\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\LasqaCat\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021.02.27 08:06:27.644,=C:\Users\LasqaCat\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.02.27 08:06:27.947,=C:\Users\LasqaCat\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.02.27 08:10:14.762,E:\Repos\FirstRepo\Unit1.dfm=C:\Users\LasqaCat\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.02.27 08:10:14.762,E:\Repos\FirstRepo\Unit1.h=C:\Users\LasqaCat\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021.02.27 08:10:14.762,E:\Repos\FirstRepo\Unit1.cpp=C:\Users\LasqaCat\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.02.27 08:10:17.417,E:\Repos\FirstRepo\Project1PCH1.h=C:\Users\LasqaCat\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.02.27 08:10:20.024,E:\Repos\FirstRepo\Project1.cbproj=C:\Users\LasqaCat\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
